@@ -1,3 +1,6 @@
 .DS_Store
 content
 list.txt
+
+_site
+.ipynb_checkpoints
